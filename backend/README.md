@@ -1,4 +1,4 @@
-# Nexora API
+# Zentrixa API
 
 Nexora is a logistics API for authentication, shipment tracking, vehicle locations, route alternatives, and verified road incidents.
 
